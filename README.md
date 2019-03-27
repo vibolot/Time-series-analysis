@@ -1,2 +1,2 @@
-# Time-series-analysis_Python
+# Time-series-analysis
 Stock Prediction
